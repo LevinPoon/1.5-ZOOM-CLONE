@@ -1,0 +1,17 @@
+install packages
+
+npm install express
+npm install -g nodemon
+npm install ejs 
+npm install uuid
+npm install socket.io
+npm install peer
+
+https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
+npm install -g heroku
+
+git init
+git add  .
+git commit -m "ZOOM CLONE DONE"
+
