@@ -15,3 +15,9 @@ git init
 git add  .
 git commit -m "ZOOM CLONE DONE"
 
+git push heroku master
+
+heroku ps:scale web=1
+heroku space
+herpku open
+
